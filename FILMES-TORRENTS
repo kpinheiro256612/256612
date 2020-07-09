@@ -1,11 +1,11 @@
 <channels></channels>
 <channel>
-<name>Oi Scooby-Doo!</name>
+<name></name>
 <thumbnail>https://image.tmdb.org/t/p/w300_and_h450_bestv2/kgr5HVQx3wKFbiZmtWwLkfSz3WV.jpg</thumbnail>
 
 
 <item>
-<title>Oi Scooby-Doo!</title>
+<title></title>
 <link>https://www2112.o0-5.com/token=5kup1P0-72fPI0Rfsd31jA/1594318877/168.197.0.0/47/6/c2/1cb6c273d621d0f833a4d6335c29ec26-480p.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w300_and_h450_bestv2/kgr5HVQx3wKFbiZmtWwLkfSz3WV.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/aZMVEZruw6VArEfKDnL0ky1cqXV.jpg</fanart>
@@ -14,7 +14,7 @@
 
 
 <item>
-<title>Trailer</title>
+<title></title>
 <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KRRGak0T17o</trailer>
 <thumbnail>https://image.tmdb.org/t/p/w300_and_h450_bestv2/kgr5HVQx3wKFbiZmtWwLkfSz3WV.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/aZMVEZruw6VArEfKDnL0ky1cqXV.jpg</fanart>
