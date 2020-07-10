@@ -1,9 +1,9 @@
-<channels>
+<channels></channels>
 <channel>
-<name>3 TEMPORADA</name>
-<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/k1Df8EkXpsEogBj1FXbLfn2mm4i.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kpinheiro256612/256612/master/SERIES-THE-RESIDENTE-3-TEMPORADA</externallink>
-<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/bycbvRHAYxcUfkJlIyX6GZ7nGuZ.jpg</fanart>
+<name>THE RESIDENTE</name>
+<thumbnail>https://image.tmdb.org/t/p/original/k1Df8EkXpsEogBj1FXbLfn2mm4i.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kpinheiro256612/256612/master/S-THE-RESIDENTE</externallink>
+<fanart>https://image.tmdb.org/t/p/original/wNO9LppxWNznBd9shHPpFi9m8Ko.jpg</fanart>
 <info>The Resident acompanha a história de Conrad Hawkins (Czuchry), um médico residente que tem um relacionamento com a enfermeira Nicolette (VanCamp). A série parte do primeiro dia de trabalho do idealista Dvon Pravesh (Manish Dayal), que está sob a supervisão do rígido Hawkins que vai mostrar o lado bom e o lado ruim da medicina moderna.</info>
 </channel>
 </channels>
