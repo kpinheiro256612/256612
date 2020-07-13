@@ -1,9 +1,25 @@
 <channels></channels>
 <channel>
-<name>THE RESIDENTE</name>
-<thumbnail>https://image.tmdb.org/t/p/original/k1Df8EkXpsEogBj1FXbLfn2mm4i.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/kpinheiro256612/256612/master/S-THE-RESIDENTE</externallink>
-<fanart>https://image.tmdb.org/t/p/w220_and_h330_face/k1Df8EkXpsEogBj1FXbLfn2mm4i.jpg</fanart>
-<info>The Resident acompanha a história de Conrad Hawkins (Czuchry), um médico residente que tem um relacionamento com a enfermeira Nicolette (VanCamp). A série parte do primeiro dia de trabalho do idealista Dvon Pravesh (Manish Dayal), que está sob a supervisão do rígido Hawkins que vai mostrar o lado bom e o lado ruim da medicina moderna.</info>
-</channel>
-</channels>
+<name>THE RESIDENT 2º TEMPORADA</name>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/k1Df8EkXpsEogBj1FXbLfn2mm4i.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/wNO9LppxWNznBd9shHPpFi9m8Ko.jpg</fanart>
+
+<item>
+<title>1º / 2º E 3º EPSÓDIO</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2c48ca22190084b2a916905f89280a7b9ac6e73&dn=%20The%20Resident%20S02E01-02-03%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/pISd6XOsf48TcZp3GQyDB0FieJy.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/cFHoZbWmemKVLMuJpVnxz7z0BZL.jpg</fanart>
+<info>A equipe fica sem a ajuda de qualquer tecnologia depois de um apagão no hospital; Bell ordena que a equipe pare de aceitar novos pacientes; porém, quando uma criança é levada para a urgência, Conrad e Devon o desobedecem.
+[COLOR yellow][B]Categoria: [/B][/COLOR]Ação, Fantasia / [COLOR yellow][B]Duração: [/B][/COLOR]1h 58m</info>
+</item>
+
+
+<item>
+<title></title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EHIU3SGLXO7PDJTRFXZSXVJPIHIYAEDQ&dn=The%20Old%20Guard%20WEB-DL%20720p%20DUAL&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/n18Nnjyl4GUJx2paLNZASRppLkb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/sQocCZOumUvUyHPWkbO8cOtXbth.jpg</fanart>
+<banner>https://cdn.seat42f.com/wp-content/uploads/2017/05/15042245/bp_theresident.jpg</banner>
+<info>Um noivo acidentalmente registra seu casamento e lua de mel em um resort de swingers na Jamaica.
+[COLOR yellow][B]Categoria: [/B][/COLOR]Comédia / [COLOR yellow][B]Duração: [/B][/COLOR]1h 33m</info>
+</item>
