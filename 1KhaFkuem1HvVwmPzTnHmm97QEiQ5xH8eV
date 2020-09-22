@@ -1,8 +1,6 @@
 <channels>
 <channel>
-<name>FILMES DUBLADOS</name>
-<thumbnail>https://image.tmdb.org/t/p/original/spqWjgLWvWlluIodXFn1SsNtISC.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/rUeqBuNDR9zN6vZV9kpEFMtQm0E.jpg</fanart>
+<name>FILMES</name>
 <externallink>https://raw.githubusercontent.com/kpinheiro256612/256612/master/FILMES-TORRENTS</externallink>
 <info></info>
 </channel>
@@ -11,8 +9,6 @@
 <channels>
 <channel>
 <name>TV Shows</name>
-<thumbnail>https://image.tmdb.org/t/p/original/spqWjgLWvWlluIodXFn1SsNtISC.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/rUeqBuNDR9zN6vZV9kpEFMtQm0E.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/kpinheiro256612/256612/master/TV_Shows</externallink>
 <info></info>
 </channel>
