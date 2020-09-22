@@ -2,6 +2,8 @@
 <channel>
 <name>FILMES</name>
 <externallink>https://raw.githubusercontent.com/kpinheiro256612/256612/master/FILMES-TORRENTS</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <info></info>
 </channel>
 </channels>
@@ -10,6 +12,8 @@
 <channel>
 <name>TV Shows</name>
 <externallink>https://raw.githubusercontent.com/kpinheiro256612/256612/master/TV_Shows</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <info></info>
 </channel>
 </channels>
