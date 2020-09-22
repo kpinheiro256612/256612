@@ -1,9 +1,7 @@
 <channels>
 <channel>
-<name>[COLOR yellow][B]FILMES DUBLADOS[/B][/COLOR]</name>
-<thumbnail>https://www.jmais.com.br/wp-content/uploads/2018/05/Deadpool.jpg-capa.jpg</thumbnail>
+<name>FILMES DUBLADOS</name>
 <externallink>https://raw.githubusercontent.com/kpinheiro256612/256612/master/FILMES-TORRENTS</externallink>
-<fanart>https://www.jmais.com.br/wp-content/uploads/2018/05/Deadpool.jpg-capa.jpg</fanart>
 <info></info>
 </channel>
 </channels>
@@ -11,9 +9,7 @@
 <channels>
 <channel>
 <name>TV Shows</name>
-<thumbnail>https://www.jmais.com.br/wp-content/uploads/2018/05/Deadpool.jpg-capa.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/kpinheiro256612/256612/master/Show</externallink>
-<fanart>https://www.jmais.com.br/wp-content/uploads/2018/05/Deadpool.jpg-capa.jpg</fanart>
 <info></info>
 </channel>
 </channels>
