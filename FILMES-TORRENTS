@@ -1,4 +1,4 @@
-<movie>
+<item>
   <plot><![CDATA[Uma sereia é arrancada do Pacífico, seu rabo é cortado e ela é jogada em um lar psíquico, onde ninguém acredita que ela é uma sereia.]]></plot>
   <outline><![CDATA[Elas existem.]]></outline>
   <lockdata>false</lockdata>
@@ -209,7 +209,7 @@
       </subtitle>
     </streamdetails>
   </fileinfo>
-</movie>
+</item>
 
 
 
