@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Uma sereia é arrancada do Pacífico, seu rabo é cortado e ela é jogada em um lar psíquico, onde ninguém acredita que ela é uma sereia.]]></plot>
+  <outline><![CDATA[Elas existem.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-14 20:02:51</dateadded>
+  <title>A Maldição da Sereia</title>
+  <originaltitle>Mermaid Down</originaltitle>
+  <director>Jeffrey Grellman</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cpUQPIVohO0</trailer>
+  <rating>5.9</rating>
+  <year>2019</year>
+  <imdbid>tt3584496</imdbid>
+  <tmdbid>504631</tmdbid>
+  <premiered>2019-10-15</premiered>
+  <releasedate>2019-10-15</releasedate>
+  <runtime>95</runtime>
+  <tagline>Elas existem.</tagline>
+  <country>United States of America</country>
+  <genre>Terror</genre>
+  <genre>Fantasia</genre>
+  <genre>Mistério</genre>
+  <genre>Thriller</genre>
+  <studio>Grellman Film</studio>
+  <studio>Heartpine Pictures</studio>
+  <studio>Mermaid Down</studio>
+  <art>
+    <poster>E:\FILMES\A Maldição da Sereia\poster.jpg</poster>
+    <fanart>E:\FILMES\A Maldição da Sereia\fanart.jpg</fanart>
+  </art>
+  <actor>
+    <name>Alexandra Bokova</name>
+    <role>The Mermaid</role>
+    <type>Actor</type>
+    <thumb>C:\EMBY_SERVER\METADADOS\metadata\library\5f\5fa783ddd5314d29b11be941cd6b8d6e\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Meggan Kaiser</name>
+    <role>Ghost</role>
+    <type>Actor</type>
+    <thumb>C:\EMBY_SERVER\METADADOS\metadata\library\37\37bebb1ed1e34e11a45ab0f72ad38b59\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Burt Culver</name>
+    <role>Dr. Beyer</role>
+    <type>Actor</type>
+    <thumb>C:\EMBY_SERVER\METADADOS\metadata\library\8a\8a770f45de334948bd1b38d604d6cbd0\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Michelle Gallagher</name>
+    <role>Sandra</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>E. Shepherd Stevenson</name>
+    <role>Stanley</role>
+    <type>Actor</type>
+    <thumb>C:\EMBY_SERVER\METADADOS\metadata\library\18\18ce5a8ae3454370996341f3c6199448\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Phillip Andre Botello</name>
+    <role>Dr. Miller</role>
+    <type>Actor</type>
+    <thumb>C:\EMBY_SERVER\METADADOS\metadata\library\4e\4eb7a0e26834496091652f3d2da4a2b2\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Cara Bamford</name>
+    <role>Susan</role>
+    <type>Actor</type>
+    <thumb>C:\EMBY_SERVER\METADADOS\metadata\library\d0\d0ecf8d0a73f40c0b111a65d2d176af7\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Drew Moore</name>
+    <role>Lawrence</role>
+    <type>Actor</type>
+    <thumb>C:\EMBY_SERVER\METADADOS\metadata\library\9c\9cc81584e6fd482e88a18ec0f6232b4b\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eryn Rea</name>
+    <role>Charlotte</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Jessica Honor Carleton</name>
+    <role>Nurse Margaret</role>
+    <type>Actor</type>
+    <thumb>C:\EMBY_SERVER\METADADOS\metadata\library\db\db606d9a10c2491bbb89e5da207c64a0\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Megan Therese Rippey</name>
+    <role>Reyna</role>
+    <type>Actor</type>
+    <thumb>C:\EMBY_SERVER\METADADOS\metadata\library\8d\8d2ecab50e5d4a4aa798b70118518ec7\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shani Drake</name>
+    <role>Alex</role>
+    <type>Actor</type>
+    <thumb>C:\EMBY_SERVER\METADADOS\metadata\library\dd\ddc012efd23044238b41153c28701ddf\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Amber Gaston</name>
+    <role>London</role>
+    <type>Actor</type>
+    <thumb>C:\EMBY_SERVER\METADADOS\metadata\library\99\99f9e53d0af544ab9cae04eb2c4eea97\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Caroline Dunaway</name>
+    <role>June</role>
+    <type>Actor</type>
+    <thumb>C:\EMBY_SERVER\METADADOS\metadata\library\87\8782d405fb844b539e51f000a7073a9e\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ashley Cordelia</name>
+    <role>Rebecca</role>
+    <type>Actor</type>
+    <thumb>C:\EMBY_SERVER\METADADOS\metadata\library\82\82553864828e4116bfb9b176d48fc834\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Melissa Perl</name>
+    <role>Nima</role>
+    <type>Actor</type>
+    <thumb>C:\EMBY_SERVER\METADADOS\metadata\library\98\986f0fddded74b0ba3e0c216b3912a2c\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tim Ray</name>
+    <role>Sadistic attendant</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Erin LaMere</name>
+    <role>Linda</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Zana Glisovic</name>
+    <role>Natasha</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Duane Sincerbox</name>
+    <role>Truck Driver</role>
+    <type>Actor</type>
+    <thumb>C:\EMBY_SERVER\METADADOS\metadata\library\30\30a97cd5255044e5bc0b4950e3d28d9f\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Graham Drake-Maurer</name>
+    <role>James Michael</role>
+    <type>Actor</type>
+  </actor>
+  <id>tt3584496</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6892859</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5678</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>
